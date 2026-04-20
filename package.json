@@ -1,0 +1,16 @@
+{
+  "name": "week6-homework",
+  "version": "1.0.0",
+  "description": "第六週作業：非同步程式開發",
+  "main": "homework.js",
+  "scripts": {
+    "start": "node homework.js",
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
